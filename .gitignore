@@ -1,0 +1,6 @@
+.terraform/
+terraform/.terraform/
+*.exe
+*.tfstate
+*.tfstate.*
+node_modules/
